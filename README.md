@@ -1,0 +1,2 @@
+# Supermart Sales Analysis and Predictive Modeling
+ The retail industry, particularly supermarkets, relies heavily on sales data analysis to make informed decisions about staffing, inventory management, and overall business strategies. In this project, we aim to conduct a comprehensive analysis of sales data from a supermart to uncover valuable insights that can drive business growth and efficiency.
